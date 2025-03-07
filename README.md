@@ -2,6 +2,10 @@
 
 A modern, interactive portfolio website featuring 3D cubes that react to cursor movement, built with Node.js and Three.js.
 
+## Live Website
+
+**Check out the live website here:** [https://supriyosen.github.io/Blocks-website/](https://supriyosen.github.io/Blocks-website/)
+
 ## Features
 
 - Interactive 3D cubes that rotate based on cursor movement
@@ -9,6 +13,8 @@ A modern, interactive portfolio website featuring 3D cubes that react to cursor 
 - Responsive design
 - Black and white minimalist aesthetic
 - Modern navigation bar
+- Dark/Light mode toggle
+- Instagram link integration
 
 ## Technologies Used
 
@@ -29,6 +35,9 @@ A modern, interactive portfolio website featuring 3D cubes that react to cursor 
 ### Installation
 
 1. Clone the repository
+   ```
+   git clone https://github.com/supriyosen/Blocks-website.git
+   ```
 2. Install dependencies:
    ```
    npm install
